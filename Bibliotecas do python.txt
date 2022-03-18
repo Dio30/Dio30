@@ -1,0 +1,15 @@
+pip install pandas = para interagir python com excel
+pip install openpyxl = para interagir python com excel
+
+pip install twilio = para interagir python com SMS
+
+pip install requests = para requisitar algo de ou para um site (API)
+pip install Kivy = para criação de aplicativos e programas mas sem deploy
+pip install tkinter = para interface grafica interativa 
+(testar seus códigos em um interface e interagir com botões)
+
+pip install pywin32 = para automação em envio de email
+pip install pyautogui = para automação em emissao de notas fiscais
+
+Flask = para criação de sites a partir do python
+

@@ -1,9 +1,8 @@
 ### Olá, eu sou o Dione Padilha
 
-- 🔭 Hoje estou desempregado e cursando faculdade de Gestão da Teconologia da Informação
-- 🌱 Estudando Python
+- 🔭 Cursando faculdade de Gestão da Teconologia da Informação
+- 🌱 Estudando Python e aplicando pequenos projetos
 - 📫 Entre em contato através do email: padilhadione1@gmail.com
-- 😄 Pronome: ele/dele
 
 <div align="center">
   <a href="https://github.com/Dio30">

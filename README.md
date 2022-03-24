@@ -3,6 +3,7 @@
 - 🔭 Cursando faculdade de Gestão da Teconologia da Informação
 - 🌱 Estudando Python e aplicando pequenos projetos
 - 📫 Entre em contato através do email: padilhadione1@gmail.com
+- Meu primeiro site usando Flask https://portifoliositeflask.herokuapp.com/
 
 <div align="center">
   <a href="https://github.com/Dio30">

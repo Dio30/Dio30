@@ -1,4 +1,4 @@
-### Olá, eu sou o Dione Padilha
+### Olá, eu sou Dione Padilha
 
 - 🔭 Cursando faculdade de Gestão da Teconologia da Informação
 - 🌱 Estudando Python e aplicando pequenos projetos

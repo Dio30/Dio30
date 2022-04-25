@@ -3,7 +3,7 @@ from tkinter import *
 
 API_KEY = "d7c5eb336a9f9bea2f44c4e2cc117f48"
 cidade = "Biguaçu"
-link = f"https://api.openweathermap.org/data/2.5/weather?q={'biguaçu'}&appid={'d7c5eb336a9f9bea2f44c4e2cc117f48'}&lang=pt_br"
+link = f"https://api.openweathermap.org/data/2.5/weather?q={cidade}&appid={API_KEY}&lang=pt_br"
 
 def pegar_temperatura():
     requisicao = requests.get(link)

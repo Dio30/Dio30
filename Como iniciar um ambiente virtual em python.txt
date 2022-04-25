@@ -1,0 +1,4 @@
+virtualenv -p python3 nome_do_arquivo
+.\venv\Scripts\activate
+cd "nome do arquivo"
+code .

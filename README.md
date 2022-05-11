@@ -1,9 +1,10 @@
 ### Olá, eu sou Dione Padilha
 
-- 🔭 Cursando faculdade de Gestão da Teconologia da Informação
-- 🌱 Estudando Python e aplicando em projetos
-- 📫 Entre em contato através do email: padilhadione1@gmail.com
-- Meu primeiro site usando Flask https://portifoliositeflask.herokuapp.com/
+- Cursando faculdade de Gestão da Teconologia da Informação
+- Estudando Python e aplicando em projetos
+- Já fiz projetos em Flask: https://portifoliositeflask.herokuapp.com/
+- Entre em contato através do email: padilhadione1@gmail.com
+- Atualmente estou fazendo projetos em Django, quando estiver pronto divulgarei aqui
 
 <div align="center">
   <a href="https://github.com/Dio30">

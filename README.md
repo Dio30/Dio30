@@ -1,7 +1,7 @@
 ### Olá, eu sou Dione Padilha
 
 - 🔭 Cursando faculdade de Gestão da Teconologia da Informação
-- 🌱 Estudando Python e aplicando pequenos projetos
+- 🌱 Estudando Python e aplicando em projetos
 - 📫 Entre em contato através do email: padilhadione1@gmail.com
 - Meu primeiro site usando Flask https://portifoliositeflask.herokuapp.com/
 

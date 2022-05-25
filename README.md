@@ -4,7 +4,7 @@
 - Estudando Python e aplicando em projetos
 - Já fiz projetos em Flask: https://portifoliositeflask.herokuapp.com/
 - Entre em contato através do email: padilhadione1@gmail.com
-- Atualmente estou fazendo projetos em Django, quando estiver pronto divulgarei aqui
+- Um projeto feito em Django + CRUD de listagem de jogos: https://portifolio-site-django.herokuapp.com
 
 <div align="center">
   <a href="https://github.com/Dio30">

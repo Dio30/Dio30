@@ -5,6 +5,7 @@
 - Já fiz projetos em Flask: https://portifoliositeflask.herokuapp.com/
 - Entre em contato através do email: padilhadione1@gmail.com
 - Um projeto feito em Django + CRUD de listagem de jogos: https://portifolio-site-django.herokuapp.com
+- Um projeto completo com CRUD como adição de imagens de carros simulando uma concessionária de carros, tambem é possivel que a cada erro em algum formulario existe uma         validação propria: https://site-de-carros-django.herokuapp.com/
 
 <div align="center">
   <a href="https://github.com/Dio30">

@@ -20,6 +20,6 @@
 <div>
 
 <a href = "mailto:padilhadione1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "https://www.linkedin.com/in/dione-padilha-a99864234/"><img src="https://img.shields.io/badge/-Linkedin-blue" target="_blank"></a>
+<a href = "https://www.linkedin.com/in/dione-padilha-a99864234/"><img src="https://img.shields.io/badge/-Linkedin-blue?logoWidth=40" target="_blank"></a>
 
 </div>

@@ -12,6 +12,7 @@
 <a href="https://github.com/Dio30">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Dio30&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br&count_private=true"></a>
 <br><br>
+  
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/? username=Dio30&layout=compact&hide=nu,shell,powershell&custom_title=Linguagens%20mais%20usadas&langs_count=4&theme=onedark">
 
 </div>

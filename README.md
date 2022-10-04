@@ -8,10 +8,12 @@
 - Um projeto completo com CRUD como adição de imagens de carros simulando uma concessionária de carros, tambem é possivel que a cada erro em algum formulario existe uma         validação propria, o armazenamento de imagens é feito pelo AWS Cloud S3: https://site-de-carros-django.herokuapp.com/
 
 <div align="center">
+
   <a href="https://github.com/Dio30?tab=repositories">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Dio30&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Dio30&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br&count_private=true"> 
     <br><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?  username=Dio30&hide=nu,shell,powershell&layout=compact&custom_title=Linguagens%20mais%20usadas&langs_count=4&theme=onedark"/></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?  username=Dio30&hide=nu,shell,powershell&layout=compact&custom_title=Linguagens%20mais%20usadas&langs_count=4&theme=onedark"></a>
+
 </div>
 
   ##

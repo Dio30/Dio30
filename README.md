@@ -9,10 +9,10 @@
 
 <div align="center">
 
-  <a href="https://github.com/Dio30">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Dio30&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br&count_private=true"> 
-    <br><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?  username=Dio30&hide=nu,shell,powershell&layout=compact&custom_title=Linguagens%20mais%20usadas&langs_count=4&theme=onedark"></a>
+<a href="https://github.com/Dio30?tab=repositories">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Dio30&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br&count_private=true"> 
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/? username=Dio30&hide=nu,shell,powershell&layout=compact&custom_title=Linguagens%20mais%20usadas&langs_count=4&theme=onedark"></a>
 
 </div>
 

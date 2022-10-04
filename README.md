@@ -9,9 +9,9 @@
 
 <div align="center">
   <a href="https://github.com/Dio30">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Dio30&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Dio30&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br&count_private=true"/>
     <br><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dio30&layout=compact&langs_count=7&theme=dark"/></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dio30&layout=compact&langs_count=8&theme=dracula"/></a>
 </div>
   
   ##

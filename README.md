@@ -13,6 +13,10 @@
     <br><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dio30&layout=compact&langs_count=7&theme=dark"/></a>
 </div>
+
+<div>
+  <img src= "https://github-readme-stats.vercel.app/api/wakatime?username=Dio30">
+</div>
   
   ##
  

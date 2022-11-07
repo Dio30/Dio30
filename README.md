@@ -4,7 +4,7 @@
 - Estudando Python e aplicando em projetos cada vez melhores
 - Meu portifolio em Flask: https://meu-portifolio.up.railway.app/
 - Entre em contato através do email: padilhadione1@gmail.com
-- Um projeto feito em Django + CRUD de listagem de jogos: https://portifolio-site-django.herokuapp.com
+- Um projeto feito em Django + CRUD de listagem de jogos: https://cadastro-de-jogos.up.railway.app/
 - Um projeto completo com CRUD como adição de imagens de carros simulando uma concessionária de carros, tambem é possivel que a cada erro em algum formulario existe uma         validação propria, o armazenamento de imagens é feito pelo AWS Cloud S3: https://projeto-carros.up.railway.app/
 
 <div align="center">
